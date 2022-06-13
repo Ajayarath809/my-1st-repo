@@ -1,2 +1,4 @@
-# my-1st-repo
-my-1st-repo
+yum update -y
+yum install httpd -y
+install git -y
+install python -y
